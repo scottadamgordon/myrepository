@@ -86,7 +86,7 @@ You can find a technical description on how to adapt these elements on [GitHub](
  
 **IMPORTANT:** Custom changes to the questionnaire or the implementation of the decision tree aren't recommended and aren't officially supported. Any changes could be overwritten by future CovApp updates.
  
-## I work with i.s.h.med, is there anything I must consider?
+## I work with i.s.h.med, is there anything I must consider? <a name="i-work-with-ishmed-is-there-anything-i-must-consider"></a>
  
 The requirements for running the CovApp are independent of your hospital information system (HIS).
 For the i.s.h.med HIS, we offer solutions that have been developed together with Charité.
